@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Aftergods Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core survival loops, stamina conservation, divine resonance, and initial exploration fundamentals."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Archetypes & Builds",
+          "description": "Pick optimal Godborn classes from Vanguard to Channeler and optimize your primary stat scaling early."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Weapons & Relics",
+          "description": "Discover top weapon tiers, guard-crush hammer combos, and sacred relic upgrade paths to overpower foes."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Boss Battle Tactics",
+          "description": "Learn telegraphed boss attack cues, perfect parry windows, and stagger burst execution strategies."
         }
       ]
     },
@@ -62,237 +62,285 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Weapons Tier List",
+        "Starter Builds",
+        "Boss Encounters"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Essential survival tactics, combat pacing, stamina management, and early progression tips.",
+          "href": "/guide/aftergods-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Combat",
+          "title": "Weapons Tier List",
+          "description": "Complete weapon ranking from S-tier Sovereign blades to specialized ranged scepters.",
+          "href": "/combat/aftergods-weapons"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Builds",
+          "title": "Archetypes & Builds",
+          "description": "Optimal stat allocation, synergy boons, and starter archetypes for solo and team play.",
+          "href": "/combat/aftergods-build"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Bosses",
+          "title": "Boss Combat Guide",
+          "description": "Master posture breaking, attack telegraphs, stagger phases, and domain counters.",
+          "href": "/combat/aftergods-bosses"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Co-op",
+          "title": "Co-op & Multiplayer",
+          "description": "Lobby setup, role synergies, difficulty scaling, and squad combat coordination.",
+          "href": "/modes/aftergods-co-op"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Mechanics",
+          "title": "Core Mechanics",
+          "description": "Deep dive into stamina economy, Divine Resonance, and defensive frame windows.",
+          "href": "/mechanics/aftergods-mechanics"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Aftergods?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Aftergods is a top-down mythic survival action RPG where players rise as Godborn champions in the aftermath of cosmic cataclysm. Explore dangerous ruined realms, rebuild sacred sanctums around the shattered World Tree, rally mortal survivors, and master ancient celestial abilities.",
+        "Whether conquering ferocious mythical titans solo or coordinating synergistic frontline, blaster, and support roles in multiplayer co-op, our comprehensive wiki covers weapon tiers, boss patterns, class progression, and survival mechanics."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
+          "value": "Norsfell"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Survival Action RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Modes",
+          "value": "Solo & Online Co-op"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Platforms",
+          "value": "PC / PS5 / Xbox"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Combat Focus",
+          "value": "Timing & Divine Boons"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Progression",
+          "value": "Relics & Archetypes"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Aftergods Wiki",
+      "description": "Master your journey through divine ruins with comprehensive progression routes, boss tactics, weapon rankings, and co-op battle guides.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Aftergods Beginner Guide",
+          "description": "A beginner-focused guide covering the core gameplay loop, survival mechanics, god powers, crafting, exploration, and early progression tips.",
+          "href": "/guide/aftergods-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Manage your stamina and avoid exhausting attacks"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Gather basic materials and establish your sanctuary"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Attune starting archetype traits and weapon boons"
+            },
+            {
+              "label": "4",
+              "detail": "Learn parry windows to stagger aggressive enemies"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Aftergods Classes and Builds",
+          "description": "Covers playable Godborn choices, pantheon origins, classes, combat styles, and recommended character setups.",
+          "href": "/combat/aftergods-build",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Vanguard",
+              "detail": "High poise and durable melee defense"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Blade",
+              "detail": "High mobility, critical strikes, and rapid combos"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Channeler",
+              "detail": "Potent area-of-effect divine magic bursts"
+            },
+            {
+              "label": "Paladin",
+              "detail": "Defensive shield walls and reliable self-healing"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Aftergods Gameplay Guide",
+          "description": "Explains major gameplay systems including survival, resource management, temple building, followers, crafting, and exploration.",
+          "href": "/mechanics/aftergods-mechanics",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Resonance",
+              "detail": "Build divine energy via attacks and parries"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Stamina",
+              "detail": "Maintain reserves to avoid sluggish exhaust states"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Sanctuary",
+              "detail": "Rebuild the World Tree and unlock passive buffs"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Followers",
+              "detail": "Rescue mortal survivors to assist resource crafting"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Aftergods Weapons and Gear",
+          "description": "A database-style section for weapons, equipment, crafting materials, and gear progression.",
+          "href": "/combat/aftergods-weapons",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Sovereign Eclipse Blade & Gale-Weaver Twinfangs"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Calamity Censer Warhammer & Dawnlight Scepter"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Ironclad Cleaver & Storm-Call Talons"
+            },
+            {
+              "label": "C",
+              "detail": "Worn starter armaments with flat scaling"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Aftergods Bosses and Enemies",
+          "description": "Provides information about giant monsters, combat encounters, and strategies for defeating major threats.",
+          "href": "/combat/aftergods-bosses",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Posture",
+              "detail": "Deplete poise bars to trigger stagger phases"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Ash King",
+              "detail": "Thermal domain boss featuring heavy flame slams"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Tells",
+              "detail": "Observe visual glints for reliable parry timing"
+            },
+            {
+              "label": "Enrage",
+              "detail": "Survive multi-phase shifts triggered below 30% HP"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Aftergods Co Op Guide",
+          "description": "Covers multiplayer features, online co-op gameplay, party strategies, and tips for playing with friends.",
+          "href": "/modes/aftergods-co-op",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Form a squad of 2 to 4 players in the sanctuary hub"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Select difficulty modifiers for bonus drop chances"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Pair frontline tanks with backline magic blasters"
+            },
+            {
+              "label": "4",
+              "detail": "Coordinate revive tokens during punishing boss fights"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Aftergods Release Date and Platforms",
+          "description": "Tracks official release information, supported platforms, system requirements, and store availability.",
+          "href": "/guide/aftergods-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC / Steam",
+              "detail": "Uncapped framerate, ultrawide support, and custom keybinds"
+            },
+            {
+              "label": "PlayStation 5",
+              "detail": "Performance 60 FPS and high-fidelity 4K modes"
+            },
+            {
+              "label": "Xbox Series X|S",
+              "detail": "Optimized performance targets and VRR support"
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Handheld portable play with custom TDP profiles"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Aftergods News and Updates",
+          "description": "Collects official announcements, trailers, developer updates, and important game news.",
+          "href": "/guide/aftergods-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Atmospheric reveal of cosmic deities and ruined lands"
+            },
+            {
+              "label": "Devlogs",
+              "detail": "Updates on combat tuning and playtest schedules"
+            },
+            {
+              "label": "Discord",
+              "detail": "Direct community feedback and alpha announcements"
+            },
+            {
+              "label": "Steam",
+              "detail": "Official wishlist page and storefront news"
             }
           ]
         }
@@ -300,27 +348,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Aftergods.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Aftergods?",
+          "answer": "Aftergods is an upcoming top-down survival action RPG developed by Norsfell. Players step into the shoes of Godborn heroes navigating a ruined mythic world after Ragnarök, rebuilding the World Tree, gathering mortal survivors, and battling divine terrors."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which starter archetype is best for beginners in Aftergods?",
+          "answer": "The Vanguard archetype is widely recommended for new players due to its forgiving health pool, high poise defense, and durable posture against heavy attacks."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does Aftergods support multiplayer co-op?",
+          "answer": "Yes, Aftergods features cooperative multiplayer for 2 to 4 players, allowing friends to combine complementary archetypes, trigger elemental combos, and tackle scaled boss raids."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What platforms is Aftergods releasing on?",
+          "answer": "Aftergods is planned for PC via Steam and modern home consoles including PlayStation 5 and Xbox Series X/S, along with support for handheld PCs like the Steam Deck."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How does combat stamina and Divine Resonance work in Aftergods?",
+          "answer": "Combat relies on balanced stamina management and building Divine Resonance through attacks and parries. Depleting stamina enters an exhaustion state, while full resonance unleashes potent relic skills."
         }
       ]
     },
@@ -336,7 +384,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play Aftergods on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
