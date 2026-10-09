@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Builds, Guides & Survival Tips",
   description: "Explore Aftergods Wiki for builds, guides, classes, crafting, survival tips and updates. Discover Godborn gameplay, co-op features, resources and strategies for this mythic action RPG.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://aftergods.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://aftergods.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@aftergods.top",
   gameUrl: "https://store.steampowered.com/app/2375790",
   heroVideoId: "kATH2cBM3V0",
   social: {

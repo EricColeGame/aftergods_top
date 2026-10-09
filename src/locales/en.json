@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Aftergods Wiki",
+    "shortName": "Aftergods",
+    "tagline": "Builds, Guides & Survival Tips",
+    "description": "Explore Aftergods Wiki for builds, guides, classes, crafting, survival tips and updates. Discover Godborn gameplay, co-op features, resources and strategies for this mythic action RPG.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Aftergods Wiki - Builds, Guides & Survival Tips",
+      "description": "Explore Aftergods Wiki for builds, guides, classes, crafting, survival tips and updates. Discover Godborn gameplay, co-op features, resources and strategies for this mythic action RPG."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Mythic Survival Action RPG",
+      "title": "Aftergods Wiki",
+      "description": "Aftergods is a top-down survival action RPG where players become Godborn heroes, rebuild the World Tree, recruit followers, craft gear, and battle mythical monsters.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "TBA Release Date",
+        "4 Pantheons Available",
+        "TBA Active Codes",
+        "TBA Daily Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Pantheons Guide",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Aftergods?",
+      "description": "From your first steps in the mythic ruins to rebuilding the World Tree, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Wishlist on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Aftergods Wiki",
+    "about": "Aftergods Wiki is an independent fan-built guide hub covering progression routes, Godborn powers, bosses, builds, crafting, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "© 2026 Aftergods Wiki. Not affiliated with Norsfell.",
+    "description": "Mythic survival action RPG. Rebuild the World Tree, master Godborn powers, and survive.",
+    "playGame": "Play Aftergods on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Build Planner",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
