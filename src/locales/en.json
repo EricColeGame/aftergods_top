@@ -6,7 +6,17 @@
     "description": "Explore Aftergods Wiki for builds, guides, classes, crafting, survival tips and updates. Discover Godborn gameplay, co-op features, resources and strategies for this mythic action RPG.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "modes": "Modes",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Aftergods Wiki - Builds, Guides & Survival Tips",
@@ -409,10 +419,38 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Build Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Characters",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Aftergods Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner guides, story overviews, release info, and essential tips for surviving and progressing in Aftergods."
+  },
+  "characters": {
+    "overviewTitle": "Aftergods Characters & Lore",
+    "overviewDescription": "In-depth character profiles, Godborn lore, backstories, and ability overviews for Shion, Waka, Nayu, and more."
+  },
+  "combat": {
+    "overviewTitle": "Aftergods Combat, Weapons & Bosses",
+    "overviewDescription": "Detailed breakdowns of combat mechanics, weapon classes, divine abilities, character builds, and boss encounter strategies."
+  },
+  "mechanics": {
+    "overviewTitle": "Aftergods Core Gameplay Mechanics",
+    "overviewDescription": "Master Aftergods gameplay systems including exploration rules, enemy attack patterns, quest structures, and divine power dynamics."
+  },
+  "progression": {
+    "overviewTitle": "Aftergods Progression, Skills & Upgrades",
+    "overviewDescription": "Optimize your journey with comprehensive guides on skill trees, stat progression, item upgrades, and gear unlocks."
+  },
+  "modes": {
+    "overviewTitle": "Aftergods Game Modes & Platforms",
+    "overviewDescription": "Everything you need to know about multiplayer co-op, platform availability across PC and PS5, and supported game modes."
+  },
+  "community": {
+    "overviewTitle": "Aftergods Community & Official Links",
+    "overviewDescription": "Connect with the Aftergods community through official Discord, Reddit hubs, fan art collections, and original soundtrack details."
   }
 }
