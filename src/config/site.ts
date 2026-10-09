@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Aftergods Wiki",
+  shortName: "Aftergods",
+  logoText: "A",
+  tagline: "Builds, Guides & Survival Tips",
+  description: "Explore Aftergods Wiki for builds, guides, classes, crafting, survival tips and updates. Discover Godborn gameplay, co-op features, resources and strategies for this mythic action RPG.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://aftergods.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://aftergods.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/2375790",
+  heroVideoId: "kATH2cBM3V0",
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.com/invite/aftergods",
+    youtube: "https://www.youtube.com/@aftergodsgame",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
