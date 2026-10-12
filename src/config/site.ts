@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.com/invite/aftergods",
     youtube: "https://www.youtube.com/@aftergodsgame",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "ja", "es"],
   defaultLocale: "en",
 };
