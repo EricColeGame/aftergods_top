@@ -228,7 +228,7 @@
           "highlights": [
             {
               "label": "S",
-              "detail": "Sovereign Eclipse Blade & Gale-Weaver Twinfangs"
+              "detail": "Sovereign's Eclipse Blade & Gale-Weaver Twinfangs"
             },
             {
               "label": "A",
@@ -256,8 +256,12 @@
               "detail": "Deplete poise bars to trigger stagger phases"
             },
             {
-              "label": "Ash King",
-              "detail": "Thermal domain boss featuring heavy flame slams"
+              "label": "Sovereign",
+              "detail": "The Ash Sovereign floods its arena with magma pools"
+            },
+            {
+              "label": "Leviathan",
+              "detail": "Abyssal Leviathan wields frostbite waves and whirlpools"
             },
             {
               "label": "Tells",
@@ -265,7 +269,7 @@
             },
             {
               "label": "Enrage",
-              "detail": "Survive multi-phase shifts triggered below 30% HP"
+              "detail": "Multi-phase shifts trigger below 30% boss health"
             }
           ]
         },
