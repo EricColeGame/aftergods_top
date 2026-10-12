@@ -1,1 +1,460 @@
-{}
+{
+  "site": {
+    "name": "Aftergods Wiki",
+    "shortName": "Aftergods",
+    "tagline": "Builds, guías y consejos de supervivencia",
+    "description": "Explora Aftergods Wiki para encontrar builds, guías, clases, crafteo, consejos de supervivencia y novedades. Descubre el gameplay de Godborn, las funciones cooperativas, los recursos y las estrategias de este RPG de acción mítico.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "characters": "Personajes",
+    "combat": "Combate",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "modes": "Modos",
+    "community": "Comunidad",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Aftergods Wiki: builds, guías y consejos de supervivencia",
+      "description": "Explora Aftergods Wiki para encontrar builds, guías, clases, crafteo, consejos de supervivencia y novedades. Descubre el gameplay de Godborn, las funciones cooperativas, los recursos y las estrategias de este RPG de acción mítico."
+    },
+    "hero": {
+      "eyebrow": "RPG de acción y supervivencia mítico",
+      "title": "Aftergods Wiki",
+      "description": "Aftergods es un RPG de acción y supervivencia con vista cenital en el que los jugadores se convierten en héroes Godborn, reconstruyen el Árbol del Mundo, reclutan seguidores, fabrican equipo y luchan contra monstruos míticos.",
+      "stats": [
+        "Fecha de lanzamiento por confirmar",
+        "4 panteones disponibles",
+        "Códigos activos por confirmar",
+        "Actualizaciones diarias por confirmar"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de panteones",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Aftergods",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina los bucles básicos de supervivencia, el ahorro de aguante, la resonancia divina y los fundamentos de la exploración inicial."
+        },
+        {
+          "number": "2",
+          "title": "Arquetipos y builds",
+          "description": "Elige las clases de Godborn óptimas, de Vanguard a Channeler, y optimiza desde pronto el escalado de tu atributo principal."
+        },
+        {
+          "number": "3",
+          "title": "Armas y reliquias",
+          "description": "Descubre los mejores niveles de armas, los combos de martillo rompeguardias y las rutas de mejora de reliquias sagradas para dominar a tus enemigos."
+        },
+        {
+          "number": "4",
+          "title": "Tácticas de jefes",
+          "description": "Aprende las señales telegrafiadas de los ataques de jefe, las ventanas de parry perfecto y las estrategias de ráfaga de aturdimiento."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Lista de niveles de armas",
+        "Builds iniciales",
+        "Encuentros con jefes"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Tácticas esenciales de supervivencia, ritmo de combate, gestión del aguante y consejos de progresión temprana.",
+          "href": "/guide/aftergods-beginner-guide"
+        },
+        {
+          "badge": "Combate",
+          "title": "Lista de niveles de armas",
+          "description": "Ranking completo de armas, desde las hojas Sovereign de nivel S hasta cetros a distancia especializados.",
+          "href": "/combat/aftergods-weapons"
+        },
+        {
+          "badge": "Builds",
+          "title": "Arquetipos y builds",
+          "description": "Asignación óptima de atributos, bendiciones de sinergia y arquetipos iniciales para juego en solitario y en equipo.",
+          "href": "/combat/aftergods-build"
+        },
+        {
+          "badge": "Jefes",
+          "title": "Guía de combate contra jefes",
+          "description": "Domina la ruptura de postura, los telegrafiados de ataque, las fases de aturdimiento y los contraataques de dominio.",
+          "href": "/combat/aftergods-bosses"
+        },
+        {
+          "badge": "Cooperativo",
+          "title": "Cooperativo y multijugador",
+          "description": "Configuración de salas, sinergias de roles, escalado de dificultad y coordinación de combate en escuadrón.",
+          "href": "/modes/aftergods-co-op"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Mecánicas principales",
+          "description": "Análisis a fondo de la economía de aguante, la Resonancia Divina y las ventanas de frames defensivos.",
+          "href": "/mechanics/aftergods-mechanics"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Aftergods?",
+      "paragraphs": [
+        "Aftergods es un RPG de acción y supervivencia mítico con vista cenital en el que los jugadores se alzan como campeones Godborn tras un cataclismo cósmico. Explora reinos en ruinas peligrosos, reconstruye santuarios sagrados alrededor del Árbol del Mundo destrozado, reúne a los supervivientes mortales y domina antiguas habilidades celestiales.",
+        "Ya sea conquistando feroces titanes míticos en solitario o coordinando roles sinérgicos de primera línea, artillería y apoyo en cooperativo multijugador, nuestra completa wiki cubre niveles de armas, patrones de jefes, progresión de clases y mecánicas de supervivencia."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Norsfell"
+        },
+        {
+          "label": "Género",
+          "value": "RPG de acción y supervivencia"
+        },
+        {
+          "label": "Modos",
+          "value": "Solitario y cooperativo en línea"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC / PS5 / Xbox"
+        },
+        {
+          "label": "Enfoque de combate",
+          "value": "Timing y bendiciones divinas"
+        },
+        {
+          "label": "Progresión",
+          "value": "Reliquias y arquetipos"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Aftergods Wiki",
+      "description": "Domina tu viaje por ruinas divinas con rutas de progresión completas, tácticas de jefes, rankings de armas y guías de combate cooperativo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Aftergods",
+          "description": "Una guía para principiantes que cubre el bucle de juego principal, las mecánicas de supervivencia, los poderes divinos, el crafteo, la exploración y consejos de progresión temprana.",
+          "href": "/guide/aftergods-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Gestiona tu aguante y evita ataques que te agoten"
+            },
+            {
+              "label": "2",
+              "detail": "Reúne materiales básicos y establece tu santuario"
+            },
+            {
+              "label": "3",
+              "detail": "Sintoniza los rasgos del arquetipo inicial y las bendiciones de armas"
+            },
+            {
+              "label": "4",
+              "detail": "Aprende las ventanas de parry para aturdir a enemigos agresivos"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Clases y builds de Aftergods",
+          "description": "Cubre las opciones jugables de Godborn, los orígenes de panteón, las clases, los estilos de combate y las configuraciones de personaje recomendadas.",
+          "href": "/combat/aftergods-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vanguard",
+              "detail": "Alta postura y defensa cuerpo a cuerpo resistente"
+            },
+            {
+              "label": "Blade",
+              "detail": "Alta movilidad, golpes críticos y combos rápidos"
+            },
+            {
+              "label": "Channeler",
+              "detail": "Potentes ráfagas de magia divina de área"
+            },
+            {
+              "label": "Paladin",
+              "detail": "Muros de escudo defensivos y autocuración fiable"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de gameplay de Aftergods",
+          "description": "Explica los principales sistemas de juego, incluidos la supervivencia, la gestión de recursos, la construcción de templos, los seguidores, el crafteo y la exploración.",
+          "href": "/mechanics/aftergods-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Resonance",
+              "detail": "Acumula energía divina con ataques y parrys"
+            },
+            {
+              "label": "Stamina",
+              "detail": "Mantén reservas para evitar estados de agotamiento lentos"
+            },
+            {
+              "label": "Sanctuary",
+              "detail": "Reconstruye el Árbol del Mundo y desbloquea mejoras pasivas"
+            },
+            {
+              "label": "Followers",
+              "detail": "Rescata a supervivientes mortales para ayudar con el crafteo de recursos"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Armas y equipo de Aftergods",
+          "description": "Una sección tipo base de datos para armas, equipo, materiales de crafteo y progresión del equipamiento.",
+          "href": "/combat/aftergods-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sovereign's Eclipse Blade y Gale-Weaver Twinfangs"
+            },
+            {
+              "label": "A",
+              "detail": "Calamity Censer Warhammer y Dawnlight Scepter"
+            },
+            {
+              "label": "B",
+              "detail": "Ironclad Cleaver y Storm-Call Talons"
+            },
+            {
+              "label": "C",
+              "detail": "Armas iniciales desgastadas con escalado plano"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Jefes y enemigos de Aftergods",
+          "description": "Ofrece información sobre monstruos gigantes, encuentros de combate y estrategias para derrotar a las principales amenazas.",
+          "href": "/combat/aftergods-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Posture",
+              "detail": "Vacía las barras de postura para provocar fases de aturdimiento"
+            },
+            {
+              "label": "Sovereign",
+              "detail": "El Ash Sovereign inunda su arena con charcos de magma"
+            },
+            {
+              "label": "Leviathan",
+              "detail": "El Abyssal Leviathan maneja olas de congelación y remolinos"
+            },
+            {
+              "label": "Tells",
+              "detail": "Observa los destellos visuales para lograr un timing de parry fiable"
+            },
+            {
+              "label": "Enrage",
+              "detail": "Los cambios de múltiples fases se activan por debajo del 30 % de vida del jefe"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía cooperativa de Aftergods",
+          "description": "Cubre las funciones multijugador, el gameplay cooperativo en línea, las estrategias de grupo y consejos para jugar con amigos.",
+          "href": "/modes/aftergods-co-op",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Forma un escuadrón de 2 a 4 jugadores en el centro del santuario"
+            },
+            {
+              "label": "2",
+              "detail": "Selecciona modificadores de dificultad para mejores probabilidades de botín"
+            },
+            {
+              "label": "3",
+              "detail": "Combina tanques de primera línea con artilleros mágicos de retaguardia"
+            },
+            {
+              "label": "4",
+              "detail": "Coordina fichas de reanimación durante duros combates contra jefes"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fecha de lanzamiento y plataformas de Aftergods",
+          "description": "Sigue la información oficial de lanzamiento, las plataformas compatibles, los requisitos del sistema y la disponibilidad en tiendas.",
+          "href": "/guide/aftergods-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC / Steam",
+              "detail": "Fotogramas sin límite, soporte ultrapanorámico y teclas personalizadas"
+            },
+            {
+              "label": "PlayStation 5",
+              "detail": "Modos de rendimiento a 60 FPS y alta fidelidad 4K"
+            },
+            {
+              "label": "Xbox Series X|S",
+              "detail": "Objetivos de rendimiento optimizados y soporte VRR"
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Juego portátil con perfiles de TDP personalizados"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y novedades de Aftergods",
+          "description": "Recopila anuncios oficiales, tráilers, novedades de los desarrolladores y noticias importantes del juego.",
+          "href": "/guide/aftergods-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Revelación atmosférica de deidades cósmicas y tierras en ruinas"
+            },
+            {
+              "label": "Devlogs",
+              "detail": "Novedades sobre ajustes de combate y calendarios de pruebas"
+            },
+            {
+              "label": "Discord",
+              "detail": "Comentarios directos de la comunidad y anuncios de la alfa"
+            },
+            {
+              "label": "Steam",
+              "detail": "Página oficial de lista de deseos y noticias de la tienda"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Aftergods.",
+      "items": [
+        {
+          "question": "¿Qué es Aftergods?",
+          "answer": "Aftergods es un RPG de acción y supervivencia con vista cenital en desarrollo por Norsfell. Los jugadores encarnan a héroes Godborn que recorren un mundo mítico en ruinas tras el Ragnarök, reconstruyen el Árbol del Mundo, reúnen a los supervivientes mortales y luchan contra terrores divinos."
+        },
+        {
+          "question": "¿Qué arquetipo inicial es mejor para principiantes en Aftergods?",
+          "answer": "El arquetipo Vanguard se recomienda ampliamente a los nuevos jugadores por su generosa reserva de vida, su alta defensa de postura y su resistencia frente a ataques pesados."
+        },
+        {
+          "question": "¿Aftergods admite cooperativo multijugador?",
+          "answer": "Sí, Aftergods incluye multijugador cooperativo para 2 a 4 jugadores, lo que permite a los amigos combinar arquetipos complementarios, activar combos elementales y enfrentarse a incursiones de jefes escaladas."
+        },
+        {
+          "question": "¿En qué plataformas se lanzará Aftergods?",
+          "answer": "Aftergods está previsto para PC a través de Steam y consolas domésticas modernas como PlayStation 5 y Xbox Series X/S, además de compatibilidad con PC portátiles como Steam Deck."
+        },
+        {
+          "question": "¿Cómo funcionan el aguante de combate y la Resonancia Divina en Aftergods?",
+          "answer": "El combate se basa en una gestión equilibrada del aguante y en acumular Resonancia Divina mediante ataques y parrys. Agotar el aguante provoca un estado de agotamiento, mientras que una resonancia plena desata potentes habilidades de reliquia."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Aftergods?",
+      "description": "Desde tus primeros pasos en las ruinas míticas hasta la reconstrucción del Árbol del Mundo, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Añadir a la lista de deseos en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega a Aftergods en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Aftergods Wiki",
+    "about": "Aftergods Wiki es un centro de guías independiente creado por fans que cubre rutas de progresión, poderes Godborn, jefes, builds, crafteo y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "© 2026 Aftergods Wiki. Sin afiliación con Norsfell.",
+    "description": "RPG de acción y supervivencia mítico. Reconstruye el Árbol del Mundo, domina los poderes Godborn y sobrevive.",
+    "playGame": "Juega a Aftergods en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Planificador de builds",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Personajes",
+    "bossGuides": "Guías de jefes",
+    "buildGuide": "Guía de builds",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y soluciones de Aftergods",
+    "overviewDescription": "Guías para principiantes completas, resúmenes de la historia, información de lanzamiento y consejos esenciales para sobrevivir y progresar en Aftergods."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y lore de Aftergods",
+    "overviewDescription": "Perfiles detallados de personajes, el lore de los Godborn, trasfondos y resúmenes de habilidades de Shion, Waka, Nayu y más."
+  },
+  "combat": {
+    "overviewTitle": "Combate, armas y jefes de Aftergods",
+    "overviewDescription": "Análisis detallados de las mecánicas de combate, las clases de armas, las habilidades divinas, las builds de personaje y las estrategias contra jefes."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas principales de Aftergods",
+    "overviewDescription": "Domina los sistemas de juego de Aftergods, incluidas las reglas de exploración, los patrones de ataque enemigos, las estructuras de misiones y la dinámica del poder divino."
+  },
+  "progression": {
+    "overviewTitle": "Progresión, habilidades y mejoras de Aftergods",
+    "overviewDescription": "Optimiza tu viaje con guías completas sobre árboles de habilidades, progresión de atributos, mejoras de objetos y desbloqueo de equipo."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego y plataformas de Aftergods",
+    "overviewDescription": "Todo lo que necesitas saber sobre el cooperativo multijugador, la disponibilidad en PC y PS5 y los modos de juego compatibles."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y enlaces oficiales de Aftergods",
+    "overviewDescription": "Conéctate con la comunidad de Aftergods a través del Discord oficial, los centros de Reddit, las colecciones de fan art y los detalles de la banda sonora original."
+  }
+}

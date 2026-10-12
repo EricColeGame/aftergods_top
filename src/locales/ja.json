@@ -1,1 +1,460 @@
-{}
+{
+  "site": {
+    "name": "Aftergods Wiki",
+    "shortName": "Aftergods",
+    "tagline": "ビルド・攻略・サバイバルのコツ",
+    "description": "Aftergods Wikiではビルド、攻略、クラス、クラフト、サバイバルのコツ、最新情報を掲載。神話系アクションRPGのGodbornの遊び方、協力プレイ、資源、戦略を解説します。",
+    "legalNotice": "非公式のファンWikiです。プレイヤーがプレイヤーのために作成しています。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "combat": "戦闘",
+    "mechanics": "ゲームシステム",
+    "progression": "進行",
+    "modes": "モード",
+    "community": "コミュニティ",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "Aftergods Wiki - ビルド・攻略・サバイバルのコツ",
+      "description": "Aftergods Wikiではビルド、攻略、クラス、クラフト、サバイバルのコツ、最新情報を掲載。神話系アクションRPGのGodbornの遊び方、協力プレイ、資源、戦略を解説します。"
+    },
+    "hero": {
+      "eyebrow": "神話系サバイバルアクションRPG",
+      "title": "Aftergods Wiki",
+      "description": "Aftergodsは、プレイヤーがGodbornの英雄となって世界樹を再建し、信奉者を集め、装備をクラフトし、神話の怪物と戦うトップダウンのサバイバルアクションRPGです。",
+      "stats": [
+        "発売日 未定",
+        "4つのパンテオンが利用可能",
+        "有効コード 未定",
+        "毎日の更新 未定"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "パンテオンガイド",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "あなたのAftergodsの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "基本的なサバイバルの流れ、スタミナ管理、神聖共鳴、序盤探索の基礎をマスターしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "アーキタイプとビルド",
+          "description": "VanguardからChannelerまで最適なGodbornクラスを選び、序盤に主要ステータスのスケーリングを最適化しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "武器とレリック",
+          "description": "最強の武器ティア、ガードクラッシュのハンマーコンボ、聖なるレリックの強化ルートを学んで敵を圧倒しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "ボス戦の戦術",
+          "description": "予備動作のあるボス攻撃のサイン、完璧なパリィのタイミング、スタッガーバーストの戦術を習得しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "武器ティアリスト",
+        "スタータービルド",
+        "ボス戦"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "必須のサバイバル戦術、戦闘のテンポ、スタミナ管理、序盤の進行のコツ。",
+          "href": "/guide/aftergods-beginner-guide"
+        },
+        {
+          "badge": "戦闘",
+          "title": "武器ティアリスト",
+          "description": "SティアのSovereignブレードから特殊な遠距離セプターまでの完全な武器ランキング。",
+          "href": "/combat/aftergods-weapons"
+        },
+        {
+          "badge": "ビルド",
+          "title": "アーキタイプとビルド",
+          "description": "ソロとチームプレイに最適なステータス配分、シナジー恩恵、スターターアーキタイプ。",
+          "href": "/combat/aftergods-build"
+        },
+        {
+          "badge": "ボス",
+          "title": "ボス戦ガイド",
+          "description": "体勢崩し、攻撃の予備動作、スタッガーフェーズ、領域カウンターをマスター。",
+          "href": "/combat/aftergods-bosses"
+        },
+        {
+          "badge": "協力",
+          "title": "協力プレイとマルチプレイ",
+          "description": "ロビー設定、ロールの相乗効果、難易度スケーリング、分隊戦闘の連携。",
+          "href": "/modes/aftergods-co-op"
+        },
+        {
+          "badge": "システム",
+          "title": "コアメカニクス",
+          "description": "スタミナ経済、Divine Resonance、防御フレームの猶予を深掘り解説。",
+          "href": "/mechanics/aftergods-mechanics"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Aftergodsとは？",
+      "paragraphs": [
+        "Aftergodsは、宇宙規模の大災厄の後、プレイヤーがGodbornの英雄となって立ち上がるトップダウンの神話系サバイバルアクションRPGです。危険な廃墟の領域を探索し、砕けた世界樹の周りに聖なる聖所を再建し、死すべき生存者を集め、古代の天界の能力をマスターしましょう。",
+        "凶猛な神話の巨人をソロで討伐する場合でも、マルチプレイ協力で前線・ブラスター・サポートの役割を連携させる場合でも、当Wikiは武器ティア、ボスのパターン、クラスの進行、サバイバルメカニクスを網羅しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Norsfell"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サバイバルアクションRPG"
+        },
+        {
+          "label": "モード",
+          "value": "ソロ＆オンライン協力"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC / PS5 / Xbox"
+        },
+        {
+          "label": "戦闘の重点",
+          "value": "タイミングと神聖の恩恵"
+        },
+        {
+          "label": "進行",
+          "value": "レリックとアーキタイプ"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Aftergods Wikiを探索",
+      "description": "神聖な遺跡での旅を、充実した進行ルート、ボス戦術、武器ランキング、協力戦闘ガイドでマスターしましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Aftergods 初心者ガイド",
+          "description": "基本的なゲームプレイループ、サバイバルメカニクス、神の力、クラフト、探索、序盤の進行のコツを扱う初心者向けガイド。",
+          "href": "/guide/aftergods-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "スタミナを管理し、消耗する攻撃を避けましょう"
+            },
+            {
+              "label": "2",
+              "detail": "基本素材を集め、聖所を築きましょう"
+            },
+            {
+              "label": "3",
+              "detail": "初期アーキタイプの特性と武器の恩恵を調律しましょう"
+            },
+            {
+              "label": "4",
+              "detail": "パリィのタイミングを学び、攻撃的な敵を体勢崩ししましょう"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Aftergods クラスとビルド",
+          "description": "プレイ可能なGodbornの選択肢、パンテオンの起源、クラス、戦闘スタイル、おすすめのキャラクター構成を扱います。",
+          "href": "/combat/aftergods-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vanguard",
+              "detail": "高い体勢耐性と堅牢な近接防御"
+            },
+            {
+              "label": "Blade",
+              "detail": "高い機動力、クリティカル、素早いコンボ"
+            },
+            {
+              "label": "Channeler",
+              "detail": "強力な神聖範囲魔法の連発"
+            },
+            {
+              "label": "Paladin",
+              "detail": "防御的なシールドウォールと安定した自己回復"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Aftergods ゲームプレイガイド",
+          "description": "サバイバル、資源管理、神殿建築、信奉者、クラフト、探索など主要なゲームプレイシステムを解説します。",
+          "href": "/mechanics/aftergods-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Resonance",
+              "detail": "攻撃とパリィで神聖エネルギーを蓄積"
+            },
+            {
+              "label": "Stamina",
+              "detail": "予備を維持し、動きの鈍る消耗状態を避ける"
+            },
+            {
+              "label": "Sanctuary",
+              "detail": "世界樹を再建し、パッシブバフを解放"
+            },
+            {
+              "label": "Followers",
+              "detail": "死すべき生存者を救出し、資源クラフトを支援"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Aftergods 武器と装備",
+          "description": "武器、装備、クラフト素材、装備の進行を扱うデータベース形式のセクション。",
+          "href": "/combat/aftergods-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sovereign's Eclipse Blade & Gale-Weaver Twinfangs"
+            },
+            {
+              "label": "A",
+              "detail": "Calamity Censer Warhammer & Dawnlight Scepter"
+            },
+            {
+              "label": "B",
+              "detail": "Ironclad Cleaver & Storm-Call Talons"
+            },
+            {
+              "label": "C",
+              "detail": "スケーリングの低い使い古された初期武器"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Aftergods ボスと敵",
+          "description": "巨大モンスター、戦闘の遭遇、主要な脅威を倒すための戦略に関する情報を提供します。",
+          "href": "/combat/aftergods-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Posture",
+              "detail": "体勢バーを削ってスタッガーフェーズを発動"
+            },
+            {
+              "label": "Sovereign",
+              "detail": "Ash Sovereignはアリーナをマグマだまりで埋め尽くす"
+            },
+            {
+              "label": "Leviathan",
+              "detail": "Abyssal Leviathanは凍傷の波と渦潮を操る"
+            },
+            {
+              "label": "Tells",
+              "detail": "視覚的な光のサインを見て確実なパリィのタイミングを掴む"
+            },
+            {
+              "label": "Enrage",
+              "detail": "ボスのHPが30%を下回ると多段階の変身が発生"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Aftergods 協力プレイガイド",
+          "description": "マルチプレイ機能、オンライン協力プレイ、パーティ戦略、フレンドと遊ぶためのコツを扱います。",
+          "href": "/modes/aftergods-co-op",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "聖所ハブで2〜4人の分隊を編成"
+            },
+            {
+              "label": "2",
+              "detail": "ドロップ率ボーナスの難易度修飾子を選択"
+            },
+            {
+              "label": "3",
+              "detail": "前線のタンクと後方の魔法ブラスターを組み合わせる"
+            },
+            {
+              "label": "4",
+              "detail": "厳しいボス戦で蘇生トークンを連携"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Aftergods 発売日と対応機種",
+          "description": "公式のリリース情報、対応機種、動作要件、ストアの販売状況を追跡します。",
+          "href": "/guide/aftergods-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC / Steam",
+              "detail": "フレームレート無制限、ウルトラワイド対応、カスタムキー割り当て"
+            },
+            {
+              "label": "PlayStation 5",
+              "detail": "パフォーマンス60FPSと高精細4Kモード"
+            },
+            {
+              "label": "Xbox Series X|S",
+              "detail": "最適化された性能目標とVRR対応"
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "カスタムTDPプロファイルによる携帯プレイ"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Aftergods ニュースと更新",
+          "description": "公式発表、トレーラー、開発者アップデート、重要なゲームニュースをまとめます。",
+          "href": "/guide/aftergods-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "宇宙の神々と廃墟の地を映す雰囲気ある公開映像"
+            },
+            {
+              "label": "Devlogs",
+              "detail": "戦闘調整とプレイテスト日程に関する更新"
+            },
+            {
+              "label": "Discord",
+              "detail": "コミュニティからの直接のフィードバックとアルファ告知"
+            },
+            {
+              "label": "Steam",
+              "detail": "公式ウィッシュリストページとストアのニュース"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Aftergodsに関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Aftergodsとは何ですか？",
+          "answer": "AftergodsはNorsfellが開発中のトップダウンサバイバルアクションRPGです。プレイヤーはラグナロク後の荒廃した神話世界を旅するGodbornの英雄となり、世界樹を再建し、死すべき生存者を集め、神の恐怖と戦います。"
+        },
+        {
+          "question": "Aftergodsで初心者に最適なスターターアーキタイプは？",
+          "answer": "Vanguardアーキタイプは、余裕のあるHP、高い体勢防御、重い攻撃に耐える頑丈さから、新規プレイヤーに広く推奨されています。"
+        },
+        {
+          "question": "Aftergodsはマルチプレイ協力に対応していますか？",
+          "answer": "はい、Aftergodsは2〜4人の協力マルチプレイに対応しており、フレンド同士で補完的なアーキタイプを組み合わせ、元素コンボを発動し、スケールしたボスレイドに挑めます。"
+        },
+        {
+          "question": "Aftergodsはどの機種で発売されますか？",
+          "answer": "AftergodsはSteam経由のPCと、PlayStation 5やXbox Series X/Sなどの最新家庭用コンソール向けに予定されており、Steam Deckなどの携帯PCにも対応します。"
+        },
+        {
+          "question": "Aftergodsの戦闘スタミナとDivine Resonanceはどう機能しますか？",
+          "answer": "戦闘はバランスの取れたスタミナ管理と、攻撃やパリィによるDivine Resonanceの蓄積に依存します。スタミナが尽きると消耗状態になり、共鳴が満ちると強力なレリックスキルが発動します。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Aftergodsをマスターする準備はできましたか？",
+      "description": "神話の遺跡での最初の一歩から世界樹の再建まで、当コミュニティWikiが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでウィッシュリストに追加"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "AftergodsをSteamでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後でチェックしてください！"
+  },
+  "footer": {
+    "aboutTitle": "Aftergods Wiki",
+    "about": "Aftergods Wikiは、進行ルート、Godbornの力、ボス、ビルド、クラフト、そして新規・ベテランプレイヤー双方に役立つ重要なゲーム知識を扱う、ファンが制作した独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "© 2026 Aftergods Wiki. Norsfellとは提携していません。",
+    "description": "神話系サバイバルアクションRPG。世界樹を再建し、Godbornの力をマスターして生き延びよう。",
+    "playGame": "AftergodsをSteamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "ビルドプランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクター",
+    "bossGuides": "ボスガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Aftergods ガイドと攻略",
+    "overviewDescription": "Aftergodsで生き延び、進行するための充実した初心者ガイド、ストーリー概要、リリース情報、必須のコツ。"
+  },
+  "characters": {
+    "overviewTitle": "Aftergods キャラクターと伝承",
+    "overviewDescription": "Shion、Waka、Nayuなどの詳細なキャラクター紹介、Godbornの伝承、背景、能力の概要。"
+  },
+  "combat": {
+    "overviewTitle": "Aftergods 戦闘・武器・ボス",
+    "overviewDescription": "戦闘メカニクス、武器クラス、神聖能力、キャラクタービルド、ボス戦略の詳細な解説。"
+  },
+  "mechanics": {
+    "overviewTitle": "Aftergods コアゲームプレイメカニクス",
+    "overviewDescription": "探索ルール、敵の攻撃パターン、クエスト構造、神聖な力の力学など、Aftergodsのゲームプレイシステムをマスター。"
+  },
+  "progression": {
+    "overviewTitle": "Aftergods 進行・スキル・強化",
+    "overviewDescription": "スキルツリー、ステータス進行、アイテム強化、装備解放に関する充実したガイドで旅を最適化。"
+  },
+  "modes": {
+    "overviewTitle": "Aftergods ゲームモードとプラットフォーム",
+    "overviewDescription": "マルチプレイ協力、PCとPS5の対応状況、サポートされるゲームモードについて知っておくべきすべて。"
+  },
+  "community": {
+    "overviewTitle": "Aftergods コミュニティと公式リンク",
+    "overviewDescription": "公式Discord、Redditハブ、ファンアートコレクション、オリジナルサウンドトラックの詳細を通じてAftergodsコミュニティとつながりましょう。"
+  }
+}
